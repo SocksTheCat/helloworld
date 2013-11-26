@@ -1,3 +1,3 @@
 <?php
-	print("hai, world");
+	print("hai, hai, world");
 ?>
