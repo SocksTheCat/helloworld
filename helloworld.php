@@ -1,3 +1,3 @@
 <?php
-	print("Hai, Hai, World");
+	print("Hai, Hai, World.  Git is stupid.");
 ?>
